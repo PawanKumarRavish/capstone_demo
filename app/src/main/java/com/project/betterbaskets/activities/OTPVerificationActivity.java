@@ -15,4 +15,4 @@ public class OTPVerificationActivity extends BaseActivity {
     }
 }
 
-// comment added by pawan
+// comment added by pawan to check all things are working corerctly
