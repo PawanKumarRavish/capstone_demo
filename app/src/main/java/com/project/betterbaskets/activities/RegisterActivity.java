@@ -14,3 +14,5 @@ public class RegisterActivity extends BaseActivity {
         setContentView(R.layout.activity_register);
     }
 }
+
+// these are changes made by harpreet  kaur
